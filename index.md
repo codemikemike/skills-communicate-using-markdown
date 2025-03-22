@@ -25,7 +25,7 @@ It helps me make my content look clean, structured, and professional — all usi
 
 Here's a cool GitHub mascot just for fun:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Cool GitHub mascot Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ---
 
