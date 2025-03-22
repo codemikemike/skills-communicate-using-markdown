@@ -1,7 +1,7 @@
-# 🚀 Codemikemike Markdown Learning Journey
-
 Welcome to my GitHub-powered Markdown adventure! 👋  
 Let’s learn and level up, one step at a time. 😎
+
+# 🚀 Codemikemike Markdown Learning Journey
 
 - [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
