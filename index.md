@@ -3,6 +3,9 @@
 Welcome to my GitHub-powered Markdown adventure! 👋  
 Let’s learn and level up, one step at a time. 😎
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
 ___
 
 ## 🔢 JavaScript Code Testing
